@@ -13,3 +13,4 @@
 # final ssh push test
 # final ssh pull fix test
 # alias push test
+# https push test
