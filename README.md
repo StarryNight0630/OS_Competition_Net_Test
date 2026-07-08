@@ -10,3 +10,4 @@
 # remote pull
 # pull test
 # remote alias test
+# final ssh push test
