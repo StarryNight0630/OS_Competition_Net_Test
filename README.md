@@ -9,3 +9,4 @@
 # remote alias push pull test
 # remote pull
 # pull test
+# remote alias test
