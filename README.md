@@ -7,3 +7,4 @@
 # push ref check test
 # ERROR TEST
 # remote alias push pull test
+# remote pull
