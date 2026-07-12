@@ -8,3 +8,4 @@
 # ERROR TEST
 # remote alias push pull test
 # remote pull
+# pull test
